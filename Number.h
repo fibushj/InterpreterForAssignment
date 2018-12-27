@@ -12,6 +12,8 @@ private:
 public:
     Number(double num) : num(num) {}
 
+    ~Number() {}
+
     double Calculate() {
         return num;
     }
