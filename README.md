@@ -1,5 +1,6 @@
 # FlightGear Simulator
 An interpreter for a fictive language used to communicate bidirectionally with the FlightGear simulator.
+The interpreter implementation involved the Shunting Yard algorithm for evaluating mathematical expressions.
 Example of a possible input to the interpreter:
 ```
 openDataServer 5400 10
