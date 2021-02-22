@@ -1,6 +1,6 @@
 # FlightGear Simulator
-An interpreter for a fictive language used to communicate bidirectionally with the FlightGear simulator, running on the same PC.
-
+An interpreter for a fictive language used to communicate bidirectionally with the FlightGear simulator.
+Example of a possible input to the interpreter:
 ```
 openDataServer 5400 10
 connect 127.0.0.1 5402
